@@ -19,4 +19,4 @@ I cook great:
 
 ### Contact
 
-The best way to get in touch with me is [on GitHub](https://github.com/Petrrole)
+The best way to get in touch with me is [on facebook](https://www.facebook.com/alexey.petrov.927)
