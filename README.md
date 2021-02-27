@@ -7,7 +7,7 @@ I live in the city of Omsk, in western Siberia. Russia.
 Three of my favorite books are:
 
 - *Code* by Charles Petzold
-- *Database Systems: The Complete Book * by Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer Widom
+- *Database Systems: The Complete Book* by Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer Widom
 - *War and Peace* by Leo Tolstoy
 
 ### Food
