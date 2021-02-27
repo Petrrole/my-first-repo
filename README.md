@@ -1,29 +1,22 @@
-# This is a large heading
+# Petrov Alexey
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Omsk, in western Siberia. Russia.
 
-- This is
-- an unordered
-- list
+Three of my favorite books are:
 
-1. This is
-2. an ordered
-3. list
+- *Code* by Charles Petzold
+- *Database Systems: The Complete Book* by Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer Widom
+- *War and Peace* by Leo Tolstoy
 
-Here is `some code` in the middle of a sentence.
+### Food
 
-```
-This is
-a block
-of code
-```
+I cook great:
 
-Here is how you make [a link](https://www.wikipedia.org/).
+1. Russian cuisine.
+2. Chinese cuisine.
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contact
 
+The best way to get in touch with me is [on facebook](https://www.facebook.com/alexey.petrov.927)
